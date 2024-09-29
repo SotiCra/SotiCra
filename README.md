@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm...
+- currently studying computer science in a university
+- curious about cybersecurity
+- always trying to improve
+
+My hobbies include playing guitar, piano and reading books. 
 
 <!--
 **SotiCra/SotiCra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
